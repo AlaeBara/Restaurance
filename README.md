@@ -32,7 +32,3 @@ We welcome contributions to improve this project! If you would like to contribut
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
-
-
-
-Feel free to modify and customize the README file as needed for your project.
