@@ -21,16 +21,7 @@ The project is a website built using **HTML**, **CSS**, and **Bootstrap**. It fe
 - **🍽️ Menu**: Explore the delightful menu offerings.
 - **📞 Contact Us**: Find contact information and our Google Maps location.
 
-## 🤝 Contributing
-
-We welcome contributions to improve this project! If you'd like to contribute, please follow these steps:
-
-1. **Fork** the repository.
-2. **Create a new branch** (`git checkout -b feature/your-feature`).
-3. **Commit your changes** (`git commit -m 'Add some feature'`).
-4. **Push to the branch** (`git push origin feature/your-feature`).
-5. **Open a pull request**.
 
 ---
 
-Thank you for visiting and contributing to The Arts in Paris project!
+Thank you for visiting The Arts in Paris project!
