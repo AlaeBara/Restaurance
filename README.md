@@ -12,8 +12,8 @@ The project is a website built using HTML, CSS, and Bootstrap. It features:
 - Google Maps integration
 - Smooth scrolling and elegant transitions
 
-## Visit the website live :
-restaurance.netlify.app
+## Visit the website live:
+[restaurance.netlify.app](https://restaurance.netlify.app)
 
 
 ## Usage
